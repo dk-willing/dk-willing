@@ -42,8 +42,8 @@
 </p>
 
 ###
+<img src="https://raw.githubusercontent.com/dk-willing/dk-willing/main/dist/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/dk-willing/dk-willing/output/snake.svg" alt="Snake animation" />
 
 ###
 
