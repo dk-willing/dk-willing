@@ -42,7 +42,6 @@
 </p>
 
 ###
-<img src="https://raw.githubusercontent.com/dk-willing/dk-willing/main/dist/snake.svg" alt="Snake animation" />
 
 
 ###
