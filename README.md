@@ -16,12 +16,34 @@
 
 <br clear="both">
 
-<p align="left">Hi there! I'm <br>David Karikari<br>Aspiring Frontend Developer | Passionate about crafting beautiful & accessible web experiences<br><br>I'm on an exciting journey to become a frontend web developer, dedicated to building intuitive, responsive, and user-friendly interfaces. Currently, I'm sharpening my skills in:<br><br>HTML, CSS, JavaScript<br>🔹 Responsive Web Design<br>🔹 Accessibility & Performance Optimization<br>🔹 Learning modern frontend frameworks like React (soon!)<br><br> Currently Learning: Improving my JavaScript skills and diving deeper into frontend best practices.<br><br>Goals:<br><br>Master frontend technologies & best practices<br>Build real-world projects<br>Contribute to open-source<br><br>Let's Connect!<br>Feel free to reach out or check out my projects. I’m always open to collaboration and learning from fellow developers!</p>
+<p align="left">
+  Hi there! I'm <br>
+  <strong>David Karikari</strong> <br>
+  Aspiring Frontend Developer | Passionate about crafting beautiful & accessible web experiences
+  <br><br>
+  I'm on an exciting journey to become a frontend web developer, dedicated to building intuitive, responsive, and user-friendly interfaces. Currently, I'm sharpening my skills in:
+  <br><br>
+  ✨ **HTML, CSS, JavaScript** <br>
+  🔹 Responsive Web Design <br>
+  🔹 Accessibility & Performance Optimization <br>
+  🔹 Learning modern frontend frameworks like **React (soon!)** <br><br>
+  
+  🌱 **Currently Learning:** Improving my JavaScript skills and diving deeper into frontend best practices.
+  <br><br>
+  
+  🎯 **Goals:**  
+  - Master frontend technologies & best practices  
+  - Build real-world projects  
+  - Contribute to open-source  
+  <br><br>
+
+  📫 **Let's Connect!**  
+  Feel free to reach out or check out my projects. I’m always open to collaboration and learning from fellow developers!
+</p>
 
 ###
 
 <img src="https://raw.githubusercontent.com/dk-willing/dk-willing/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
@@ -37,5 +59,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dk-willing&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dk-willing&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
