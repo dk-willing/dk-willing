@@ -25,7 +25,7 @@
   ✨ <strong>HTML, CSS, JavaScript</strong> <br>
   🔹 Responsive Web Design <br>
   🔹 Accessibility & Performance Optimization <br>
-  🔹 Learning modern frontend frameworks like **React (soon!)** <br><br>
+  🔹 Learning modern frontend frameworks like <strong>React</strong> <br><br>
   
   🌱 Currently Learning: Improving my JavaScript skills and diving deeper into frontend best practices.
   <br><br>
@@ -36,7 +36,7 @@
   - Contribute to open-source  
   <br><br>
 
-  📫 **Let's Connect!**  
+  📫 Let's Connect!  
   Feel free to reach out or check out my projects. I’m always open to collaboration and learning from fellow developers!
 </p>
 
