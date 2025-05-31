@@ -17,21 +17,20 @@
 <br clear="both">
 
 <p align="left">
-  Hi there! I'm <br>
-  <strong>David Karikari</strong> <br>
+  Hi there! I'm <strong>David Karikari</strong> <br>
   Aspiring Frontend Developer | Passionate about crafting beautiful & accessible web experiences
   <br><br>
   I'm on an exciting journey to become a frontend web developer, dedicated to building intuitive, responsive, and user-friendly interfaces. Currently, I'm sharpening my skills in:
   <br><br>
-  ✨ **HTML, CSS, JavaScript** <br>
+  ✨ <strong>HTML, CSS, JavaScript</strong> <br>
   🔹 Responsive Web Design <br>
   🔹 Accessibility & Performance Optimization <br>
   🔹 Learning modern frontend frameworks like **React (soon!)** <br><br>
   
-  🌱 **Currently Learning:** Improving my JavaScript skills and diving deeper into frontend best practices.
+  🌱 Currently Learning: Improving my JavaScript skills and diving deeper into frontend best practices.
   <br><br>
   
-  🎯 **Goals:**  
+  🎯 <strong>Goals: </strong> 
   - Master frontend technologies & best practices  
   - Build real-world projects  
   - Contribute to open-source  
