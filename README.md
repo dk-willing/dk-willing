@@ -1,65 +1,107 @@
-<div align="center">
+<div align="center" style="font-style: bold;">
+  
+  ## Hi, I'm David Kweku Karikari
 
-# 🌟 Welcome to David Kweku Karikari's Profile 🌟
+  <br>
+  
+  A passionate developer exploring modern tools and technologies to build intuitive, scalable, and impactful digital experiences. I enjoy working across the stack and constantly expanding my skill set—from JavaScript to Python, React to Express, and databases like MongoDB and PostgreSQL.
+  
+---
 
-<p>Software Engineer||  <em>A passionate developer exploring modern tools and technologies to build intuitive, scalable, and impactful digital experiences. I enjoy working across the stack and constantly expanding my skill set—from JavaScript to Python, React to Express, and databases like MongoDB and PostgreSQL.</em></p>
+  ## I'm currently learning
 
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
+  I am currently learning NodeJS, MongoDB, and Express
 </div>
 
-<hr>
+---
+## 💻 Tech Stack
 
-## 🌱 I'm currently learning
+### 🎨 Frontend
 
-<div align="center"><p>I am currently learning NodeJS, MongoDB and Express</p></div>
-
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
 </div>
 
-## 🔝 Most Used Languages
+### ⚙️ Backend
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=radical"/>
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> 
 </div>
 
-## 🔥 Contribution Streak
+### 💬 Languages
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=false" />
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 </div>
+
+### 📱 Mobile
+
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</div>
+
+### 🛠️ Basic Tools
+
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+
+---
 
 ## 🌐 Socials
 
 <div align="center">
 
-<a href="https://github.com/dk-willing/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/davekarikari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davekarikari/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dk-willing/) 
 
 </div>
+
+---
 
 ## 📫 How to reach me
 
-<div align="center">
+<div align="left">
 
-**Email:** davidkarikari89@gmail.com
-**Phone:** +233554391919
-
-</div>
-
-<div align="center">
-
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+📧 **Email:** [davidkarikari89@gmail.com](mailto:davidkarikari89@gmail.com)
 
 </div>
+
+---
+
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dk-willing&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔝 Most Used Languages
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk-willing&layout=compact&langs_count=10&theme=default"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk-willing&theme=default&hide_border=false" />
+</div>
+
+
