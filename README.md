@@ -4,7 +4,11 @@
 
   <br>
   
-  A passionate developer exploring modern tools and technologies to build intuitive, scalable, and impactful digital experiences. I enjoy working across the stack and constantly expanding my skill set—from JavaScript to Python, React to Express, and databases like MongoDB and PostgreSQL.
+  A developer on a mission to master modern tools and craft digital experiences that truly matter.
+Not just confined to one corner of the stack, I’m hands-on across frontend, backend, and everything in between — from React and Node.js to Python and databases.
+
+I’m constantly exploring, learning, and building — always hungry for the next challenge that pushes my skills and creativity.
+If you’re about creating scalable, intuitive solutions and pushing boundaries, let’s connect and make something great together.
   
 ---
 
@@ -58,15 +62,21 @@
 <div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=black" />
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
+
 ---
 
-## 🌐 Socials
+##  Socials
+---
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davekarikari/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dk-willing/) 
@@ -75,11 +85,11 @@
 
 ---
 
-## 📫 How to reach me
+##  How to reach me
 
 <div align="left">
 
-📧 **Email:** [davidkarikari89@gmail.com](mailto:davidkarikari89@gmail.com)
+ **Email:** [davidkarikari89@gmail.com](mailto:davidkarikari89@gmail.com)
 
 </div>
 
@@ -92,13 +102,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dk-willing&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </div>
 
-## 🔝 Most Used Languages
+##  Most Used Languages
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk-willing&layout=compact&langs_count=10&theme=default"/>
 </div>
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk-willing&theme=default&hide_border=false" />
